@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav
 - 👀 I’m interested in java full stack
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently working with spring boot
 - 💞️ I’m looking to collaborate on java cript
 - 📫 reach me on gs600434@gmail.com
 
